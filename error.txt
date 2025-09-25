@@ -1,0 +1,27 @@
+[eslint] 
+src\components\TimeBrushGame.js
+  Line 93:20:  The ref value 'pastImageRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'pastImageRef.current' to a variable inside the effect, and use that variable in the cleanup function        react-hooks/exhaustive-deps
+  Line 95:23:  The ref value 'presentImageRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'presentImageRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src\components\TimeBrushGame.js
+  Line 93:20:  The ref value 'pastImageRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'pastImageRef.current' to a variable inside the effect, and use that variable in the cleanup function        react-hooks/exhaustive-deps
+  Line 95:23:  The ref value 'presentImageRef.current' will likely have changed by the time this effect cleanup function runs. If this ref points to a node rendered by React, copy 'presentImageRef.current' to a variable inside the effect, and use that variable in the cleanup function  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning;
+
+Cannot read properties of null (reading 'getContext')
+TypeError: Cannot read properties of null (reading 'getContext')
+    at http://localhost:3000/static/js/bundle.js:31985:24
+    at Object.react_stack_bottom_frame (http://localhost:3000/static/js/bundle.js:15969:18)
+    at runWithFiberInDEV (http://localhost:3000/static/js/bundle.js:3887:68)
+    at commitHookEffectListMount (http://localhost:3000/static/js/bundle.js:8878:618)
+    at commitHookPassiveMountEffects (http://localhost:3000/static/js/bundle.js:8915:56)
+    at commitPassiveMountOnFiber (http://localhost:3000/static/js/bundle.js:9817:25)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/static/js/bundle.js:9808:104)
+    at commitPassiveMountOnFiber (http://localhost:3000/static/js/bundle.js:9857:9)
+    at recursivelyTraversePassiveMountEffects (http://localhost:3000/static/js/bundle.js:9808:104)
+    at commitPassiveMountOnFiber (http://localhost:3000/static/js/bundle.js:9816:9)
