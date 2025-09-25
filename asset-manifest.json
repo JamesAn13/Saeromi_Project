@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Saeromi_Project/static/css/main.922b7e8e.css",
-    "main.js": "/Saeromi_Project/static/js/main.bbbec73d.js",
+    "main.js": "/Saeromi_Project/static/js/main.657ae1a3.js",
     "static/js/453.e3e0f7cd.chunk.js": "/Saeromi_Project/static/js/453.e3e0f7cd.chunk.js",
     "static/media/염창동옛사진.jpg": "/Saeromi_Project/static/media/염창동옛사진.05becb3b84a2e3a53a27.jpg",
     "static/media/화곡동현사진.jpg": "/Saeromi_Project/static/media/화곡동현사진.2234b848ad4023d56975.jpg",
@@ -26,11 +26,11 @@
     "static/media/새로미.png": "/Saeromi_Project/static/media/새로미.3e2d3e37cae407879d88.png",
     "index.html": "/Saeromi_Project/index.html",
     "main.922b7e8e.css.map": "/Saeromi_Project/static/css/main.922b7e8e.css.map",
-    "main.bbbec73d.js.map": "/Saeromi_Project/static/js/main.bbbec73d.js.map",
+    "main.657ae1a3.js.map": "/Saeromi_Project/static/js/main.657ae1a3.js.map",
     "453.e3e0f7cd.chunk.js.map": "/Saeromi_Project/static/js/453.e3e0f7cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.922b7e8e.css",
-    "static/js/main.bbbec73d.js"
+    "static/js/main.657ae1a3.js"
   ]
 }
